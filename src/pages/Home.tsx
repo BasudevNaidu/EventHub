@@ -104,19 +104,19 @@ const Home = () => {
               {
                 id: 1,
                 title: 'Virtual Tech Conference',
-                image: images.events.techConference,
+                image: images.events.techinnovation,
                 date: 'Apr 15, 2024'
               },
               {
                 id: 2,
                 title: 'Digital Marketing Summit',
-                image: images.events.marketingSummit,
+                image: images.events.digitalmarketing,
                 date: 'Apr 20, 2024'
               },
               {
                 id: 3,
                 title: 'Leadership Masterclass',
-                image: images.events.leadershipEvent,
+                image: images.events.gl,
                 date: 'May 1, 2024'
               }
             ].map((event, index) => (

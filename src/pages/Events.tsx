@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Calendar, Clock, Users, Search, Filter, MapPin, Tag, ArrowRight } from 'lucide-react';
 import { events, categories } from '../data/events';
 
+
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState('All Events');
   const [searchQuery, setSearchQuery] = useState('');

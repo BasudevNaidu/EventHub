@@ -12,6 +12,7 @@ import Register from './pages/Register';
 import Login from './pages/Login';
 import CreateEvent from './pages/CreateEvent';
 
+
 const App = () => {
   return (
     <EventProvider>

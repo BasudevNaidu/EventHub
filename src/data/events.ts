@@ -29,7 +29,7 @@ export const events: Event[] = [
     category: 'Technology',
     location: 'London, UK',
     price: 299,
-    image: images.events.techConference,
+    image: images.events.techinnovation,
     description: 'Join us for an immersive virtual experience exploring the latest technological innovations and AI trends.',
     speakers: [
       {
@@ -49,7 +49,7 @@ export const events: Event[] = [
     category: 'Marketing',
     location: 'New York, USA',
     price: 199,
-    image: images.events.marketingSummit,
+    image: images.events.digitalmarketing,
     description: 'Master the latest digital marketing strategies and trends.',
     speakers: [
       {
@@ -69,7 +69,7 @@ export const events: Event[] = [
     category: 'Leadership',
     location: 'Singapore',
     price: 399,
-    image: images.events.leadershipEvent,
+    image: images.events.gl,
     description: 'Develop essential leadership skills for the modern business landscape.',
     speakers: [
       {
@@ -89,7 +89,7 @@ export const events: Event[] = [
     category: 'Design',
     location: 'San Francisco, USA',
     price: 149,
-    image: images.events.designWorkshop,
+    image: images.events.ux,
     description: 'Learn practical UX design techniques from industry experts.',
     speakers: [
       {
@@ -109,7 +109,7 @@ export const events: Event[] = [
     category: 'Business',
     location: 'Mumbai, India',
     price: 179,
-    image: images.events.businessSummit,
+    image: images.events.bs,
     description: 'Essential strategies for startup growth and success.',
     speakers: [
       {
@@ -129,7 +129,7 @@ export const events: Event[] = [
     category: 'Finance',
     location: 'Frankfurt, Germany',
     price: 299,
-    image: images.events.financeConference,
+    image: images.events.fc,
     description: 'Explore the future of financial technology and digital banking.',
     speakers: [
       {
@@ -149,7 +149,7 @@ export const events: Event[] = [
     category: 'Healthcare',
     location: 'Boston, USA',
     price: 249,
-    image: images.events.healthcareForum,
+    image: images.events.ai,
     description: 'Discover breakthrough technologies in healthcare and medical research.',
     speakers: [
       {
@@ -169,7 +169,7 @@ export const events: Event[] = [
     category: 'Education',
     location: 'Toronto, Canada',
     price: 149,
-    image: images.events.educationSummit,
+    image: images.events.es,
     description: 'The future of education technology and digital learning.',
     speakers: [
       {
@@ -189,7 +189,7 @@ export const events: Event[] = [
     category: 'Technology',
     location: 'Paris, France',
     price: 399,
-    image: images.events.techConference,
+    image: images.events.aiml,
     description: 'Deep dive into artificial intelligence and machine learning applications.',
     speakers: [
       {
@@ -209,7 +209,7 @@ export const events: Event[] = [
     category: 'Marketing',
     location: 'Manchester, UK',
     price: 179,
-    image: images.events.marketingSummit,
+    image: images.events.market,
     description: 'Master content creation and distribution strategies.',
     speakers: [
       {
@@ -229,7 +229,7 @@ export const events: Event[] = [
     category: 'Leadership',
     location: 'Chicago, USA',
     price: 299,
-    image: images.events.leadershipEvent,
+    image: images.events.le,
     description: 'Empowering women leaders in the modern business world.',
     speakers: [
       {
@@ -249,7 +249,7 @@ export const events: Event[] = [
     category: 'Design',
     location: 'Seattle, USA',
     price: 199,
-    image: images.events.designWorkshop,
+    image: images.events.web,
     description: 'Latest trends and techniques in product design.',
     speakers: [
       {
@@ -269,7 +269,7 @@ export const events: Event[] = [
     category: 'Business',
     location: 'Sydney, Australia',
     price: 149,
-    image: images.events.businessSummit,
+    image: images.events.web1,
     description: 'Strategies for small business success and growth.',
     speakers: [
       {
@@ -289,7 +289,7 @@ export const events: Event[] = [
     category: 'Finance',
     location: 'Hong Kong',
     price: 349,
-    image: images.events.financeConference,
+    image: images.events.web2,
     description: 'Understanding blockchain technology and cryptocurrency markets.',
     speakers: [
       {
@@ -309,7 +309,7 @@ export const events: Event[] = [
     category: 'Healthcare',
     location: 'Berlin, Germany',
     price: 279,
-    image: images.events.healthcareForum,
+    image: images.events.web3,
     description: 'Digital transformation in healthcare delivery.',
     speakers: [
       {
@@ -329,7 +329,7 @@ export const events: Event[] = [
     category: 'Education',
     location: 'Edinburgh, UK',
     price: 169,
-    image: images.events.educationSummit,
+    image: images.events.web4,
     description: 'Innovative approaches to learning and education.',
     speakers: [
       {
@@ -349,7 +349,7 @@ export const events: Event[] = [
     category: 'Technology',
     location: 'Washington DC, USA',
     price: 399,
-    image: images.events.techConference,
+    image: images.events.web5,
     description: 'Latest trends in cybersecurity and threat prevention.',
     speakers: [
       {
@@ -369,7 +369,7 @@ export const events: Event[] = [
     category: 'Marketing',
     location: 'Los Angeles, USA',
     price: 199,
-    image: images.events.marketingSummit,
+    image: images.events.web6,
     description: 'Mastering social media marketing strategies.',
     speakers: [
       {
@@ -389,7 +389,7 @@ export const events: Event[] = [
     category: 'Leadership',
     location: 'Tokyo, Japan',
     price: 499,
-    image: images.events.leadershipEvent,
+    image: images.events.web7,
     description: 'Strategic leadership skills for executives.',
     speakers: [
       {
@@ -409,7 +409,7 @@ export const events: Event[] = [
     category: 'Design',
     location: 'Amsterdam, Netherlands',
     price: 179,
-    image: images.events.designWorkshop,
+    image: images.events.web8,
     description: 'Latest trends and innovations in web design.',
     speakers: [
       {
@@ -429,7 +429,7 @@ export const events: Event[] = [
     category: 'Business',
     location: 'Stockholm, Sweden',
     price: 299,
-    image: images.events.businessSummit,
+    image: images.events.web9,
     description: 'Strategies for successful digital transformation.',
     speakers: [
       {
@@ -449,7 +449,7 @@ export const events: Event[] = [
     category: 'Finance',
     location: 'Miami, USA',
     price: 399,
-    image: images.events.financeConference,
+    image: images.events.web10,
     description: 'Modern investment strategies and market analysis.',
     speakers: [
       {
@@ -469,7 +469,7 @@ export const events: Event[] = [
     category: 'Healthcare',
     location: 'Dublin, Ireland',
     price: 199,
-    image: images.events.healthcareForum,
+    image: images.events.web11,
     description: 'Supporting mental health in the tech industry.',
     speakers: [
       {
@@ -489,7 +489,7 @@ export const events: Event[] = [
     category: 'Education',
     location: 'Melbourne, Australia',
     price: 149,
-    image: images.events.educationSummit,
+    image: images.events.web12,
     description: 'Innovations in online learning and education.',
     speakers: [
       {
@@ -509,7 +509,7 @@ export const events: Event[] = [
     category: 'Technology',
     location: 'Seoul, South Korea',
     price: 349,
-    image: images.events.techConference,
+    image: images.events.web13,
     description: 'Latest trends in cloud computing and infrastructure.',
     speakers: [
       {
